@@ -3,7 +3,7 @@ id: poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci
 title: Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej
 description: Poradnik wspierający organizacje publiczne we wdrażaniu procesowego systemu zapewniania dostępności cyfrowej oraz dostępności usług publicznych z komponentami cyfrowymi.
 sidebar_label: Poradnik wdrożeniowy
-sidebar_position: 4
+sidebar_position: 5
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 opracowanie: Stefan Wajda 
@@ -436,9 +436,9 @@ Organizacja:
 
 ---
 
-## 6.2. Koordynator dostępności
+## 6.2. Koordynator ds. dostępności cyfrowej
 
-Koordynator dostępności:
+Koordynator ds. dostępności cyfrowej:
 
 - wspiera organizację,
 - koordynuje działania,
