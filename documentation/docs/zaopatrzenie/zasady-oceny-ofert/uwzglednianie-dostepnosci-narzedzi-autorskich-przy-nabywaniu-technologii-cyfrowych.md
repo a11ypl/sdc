@@ -1,14 +1,14 @@
 ---
 id: uwzglednianie-dostepnosci-narzedzi-autorskich-przy-nabywaniu-technologii-cyfrowych
 title: Uwzględnianie dostępności narzędzi autorskich przy nabywaniu technologii cyfrowych
-description: Wskazówki dotyczące określania i weryfikowania wymagań dostępności narzędzi autorskich zgodnie z ATAG 2.0.
+description: Wskazówki dotyczące określania i weryfikowania wymagań dostępności narzędzi autorskich z uwzględnieniem EN 301 549 i ATAG 2.0.
 sidebar_position: 3
 sidebar_label: Dostępność narzędzi autorskich
 keywords: [ATAG, narzędzia autorskie, CMS, dostępność cyfrowa, zamówienia publiczne, oferty, dowody]
 tags: [ATAG, narzędzia autorskie, zaopatrzenie, dostępność cyfrowa]
 opracowanie: Damian Żłobicki
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 26 sierpnia 2026 r.
+ostatnia_aktualizacja: 27 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -21,7 +21,7 @@ Dokument uzupełnia wymagania:
 - **W-04. Tworzenie treści**, dotyczące wspierania tworzenia dostępnych treści cyfrowych;
 - **W-05. Narzędzia dla pracowników**, dotyczące dostępności narzędzi dla osób z niepełnosprawnościami.
 
-Wskazówki i scenariusze zawarte w dokumencie nie zastępują oceny zgodności z ATAG 2.0. Pomagają zaplanować wymagania, ocenę oferty, umowę, odbiór i utrzymanie rozwiązania.
+Wskazówki i scenariusze zawarte w dokumencie nie zastępują oceny zgodności z wymaganiami ustawy, EN 301 549 ani ATAG 2.0. Pomagają zaplanować wymagania, ocenę oferty, umowę, odbiór i utrzymanie rozwiązania.
 
 ## 1. Czym jest narzędzie autorskie
 
@@ -97,14 +97,17 @@ Tak opisany zakres jest podstawą wymagań, oceny oferty i późniejszego odbior
 
 ## 4. Określenie wymagań
 
-Organizacja powinna odwołać się do ATAG 2.0 jako właściwego zbioru wymagań dla narzędzi autorskich. Nie należy zastępować wymagań ATAG własną, uproszczoną listą techniczną.
+Podmiot publiczny określa PN-ETSI EN 301 549 V3.2.1:2021-09 jako podstawowy zbiór wymagań dostępności cyfrowej. Dobiera wymagania normy odpowiednio do rodzaju nabywanego rozwiązania i jego funkcji.
 
-ATAG 2.0 odwołuje się normatywnie do WCAG 2.0. Jeżeli organizacja wymaga także zgodności z EN 301 549 lub nowszą wersją WCAG, powinna wskazać te podstawy oddzielnie. Powinna też określić, jakie dowody potwierdzają spełnienie każdego zbioru wymagań.
+W odniesieniu do stron internetowych i aplikacji mobilnych ustawa o dostępności cyfrowej określa wymagania w załączniku. Zgodnie z art. 5 ust. 3 ustawy wymagania te uznaje się za spełnione, gdy podmiot publiczny uwzględni wymagania określone w punktach 9, 10 i 11 normy. Nie należy zastępować tego zakresu ogólnym wymaganiem pełnej zgodności z WCAG 2.1.
+
+W przypadku narzędzi autorskich zastosowanie mają w szczególności wymagania punktu 11.8 normy. ATAG 2.0 może uzupełniać te wymagania, zwłaszcza gdy podmiot publiczny chce dokładniej ocenić dostępność narzędzia dla autorów i wspieranie tworzenia dostępnych treści. ATAG 2.0 nie zastępuje wymagań ustawy ani EN 301 549.
 
 W dokumentacji zamówienia należy określić co najmniej:
 
-- zakres rozwiązania objęty ATAG;
-- wymagany poziom zgodności i sposób jego wykazania;
+- zakres wymagań EN 301 549 odpowiedni dla rozwiązania;
+- funkcje objęte dodatkowymi wymaganiami ATAG;
+- wymagany poziom zgodności z ATAG i sposób jego wykazania;
 - wersję i konfigurację rozwiązania podlegające ocenie;
 - zadania i procesy, które będą weryfikowane;
 - informacje oraz dowody wymagane od oferenta;
@@ -120,8 +123,9 @@ Zakres powinien być proporcjonalny do znaczenia i złożoności rozwiązania or
 
 Organizacja:
 
+- wskazuje wymagania wynikające z ustawy i EN 301 549;
 - rozpoznaje funkcje autorskie;
-- określa zakres i wymagany poziom zgodności z ATAG;
+- określa zakres dodatkowych wymagań ATAG i wymagany poziom zgodności;
 - wskazuje wymagane informacje i dowody;
 - opisuje najważniejsze zadania użytkowników;
 - zapowiada sposób weryfikacji ofert i odbioru rozwiązania.
@@ -334,14 +338,16 @@ Wynik oceny powinien zostać udokumentowany. Powinien również wskazywać zało
 
 ## Zastrzeżenie
 
-Dokument ma charakter informacyjny i wspierający. Nie stanowi porady prawnej ani kompletnej metody oceny zgodności z ATAG 2.0. Organizacja powinna dostosować wymagania i scenariusze do przedmiotu zamówienia oraz poddać klauzule umowne właściwej ocenie prawnej i zakupowej.
+Dokument ma charakter informacyjny i wspierający. Nie stanowi porady prawnej ani kompletnej metody oceny zgodności z ustawą, EN 301 549 lub ATAG 2.0. Organizacja powinna dostosować wymagania i scenariusze do przedmiotu zamówienia oraz poddać klauzule umowne właściwej ocenie prawnej i zakupowej.
 
 ## Źródła i opracowania
 
-1. [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/), W3C Recommendation.
-2. [Implementing ATAG 2.0](https://www.w3.org/TR/IMPLEMENTING-ATAG20/), wskazówki dotyczące stosowania wytycznych.
-3. [Omówienie wytycznych dla dostępności narzędzi autorskich](https://www.w3.org/WAI/standards-guidelines/atag/pl/), W3C WAI.
-4. [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/), narzędzie do przygotowania raportu z oceny.
+1. [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://eli.gov.pl/eli/DU/2019/848/ogl).
+2. [EN 301 549 V3.2.1:2021](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf), wymagania dostępności produktów i usług ICT.
+3. [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/), W3C Recommendation.
+4. [Implementing ATAG 2.0](https://www.w3.org/TR/IMPLEMENTING-ATAG20/), wskazówki dotyczące stosowania wytycznych.
+5. [Omówienie wytycznych dla dostępności narzędzi autorskich](https://www.w3.org/WAI/standards-guidelines/atag/pl/), W3C WAI.
+6. [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/), narzędzie do przygotowania raportu z oceny.
 
 ## Historia wersji
 
@@ -349,3 +355,4 @@ Dokument ma charakter informacyjny i wspierający. Nie stanowi porady prawnej an
 | --- | --- | --- | --- |
 | RC | Damian Żłobicki | 10.06.2026 | Pierwszy projekt materiałów dotyczących ATAG i systemów CMS |
 | RC 2 | Damian Żłobicki | 26.08.2026 | Przeniesienie materiału do zalecenia dotyczącego oceny ofert i rozszerzenie zakresu na narzędzia autorskie |
+| RC 3 | Damian Żłobicki | 27.08.2026 | Uporządkowanie relacji między ustawą, EN 301 549 i dodatkowymi wymaganiami ATAG |
