@@ -1,0 +1,351 @@
+---
+id: uwzglednianie-dostepnosci-narzedzi-autorskich-przy-nabywaniu-technologii-cyfrowych
+title: Uwzględnianie dostępności narzędzi autorskich przy nabywaniu technologii cyfrowych
+description: Wskazówki dotyczące określania i weryfikowania wymagań dostępności narzędzi autorskich zgodnie z ATAG 2.0.
+sidebar_position: 3
+sidebar_label: Dostępność narzędzi autorskich
+keywords: [ATAG, narzędzia autorskie, CMS, dostępność cyfrowa, zamówienia publiczne, oferty, dowody]
+tags: [ATAG, narzędzia autorskie, zaopatrzenie, dostępność cyfrowa]
+opracowanie: Damian Żłobicki
+data_zgloszenia: 10 czerwca 2026 r.
+ostatnia_aktualizacja: 26 sierpnia 2026 r.
+wersja_robocza: true
+---
+
+## Cel dokumentu
+
+Dokument pomaga uwzględnić dostępność narzędzi autorskich przy nabywaniu technologii cyfrowych. Wyjaśnia, kiedy zastosować wytyczne ATAG 2.0 oraz jak oceniać informacje i dowody przedstawione przez oferenta.
+
+Dokument uzupełnia wymagania:
+
+- **W-04. Tworzenie treści**, dotyczące wspierania tworzenia dostępnych treści cyfrowych;
+- **W-05. Narzędzia dla pracowników**, dotyczące dostępności narzędzi dla osób z niepełnosprawnościami.
+
+Wskazówki i scenariusze zawarte w dokumencie nie zastępują oceny zgodności z ATAG 2.0. Pomagają zaplanować wymagania, ocenę oferty, umowę, odbiór i utrzymanie rozwiązania.
+
+## 1. Czym jest narzędzie autorskie
+
+Narzędzie autorskie to oprogramowanie lub usługa, za pomocą których użytkownik tworzy albo modyfikuje treści internetowe.
+
+Narzędziami autorskimi mogą być między innymi:
+
+- systemy zarządzania treścią, w tym CMS i systemy BIP;
+- edytory stron i treści internetowych;
+- kreatory formularzy internetowych;
+- platformy publikacyjne;
+- edytory wizualne i kreatory stron;
+- platformy e-learningowe z funkcjami tworzenia treści internetowych;
+- narzędzia do tworzenia multimediów przeznaczonych do publikacji w internecie;
+- serwisy, w których użytkownicy publikują własne treści internetowe;
+- większe systemy zawierające moduł tworzenia, zatwierdzania lub publikowania treści.
+
+O zastosowaniu ATAG decydują funkcje rozwiązania, a nie jego nazwa. Narzędzie może podlegać ATAG w całości albo tylko w zakresie funkcji autorskich.
+
+Nie każde narzędzie używane przez pracowników jest narzędziem autorskim w rozumieniu ATAG. Jeżeli rozwiązanie tworzy wyłącznie treści nieinternetowe, na przykład dokumenty biurowe, należy ustalić właściwe wymagania na podstawie przeznaczenia rozwiązania i odpowiednich rozdziałów normy EN 301 549.
+
+## 2. Dwie części ATAG 2.0
+
+ATAG 2.0 obejmuje dwa uzupełniające się obszary.
+
+### Część A: dostępność narzędzia dla autorów
+
+Część A dotyczy dostępności interfejsu narzędzia. Osoby z niepełnosprawnościami powinny móc tworzyć, edytować, zatwierdzać i publikować treści.
+
+Ocena obejmuje funkcje rzeczywiście wykorzystywane w organizacji, na przykład:
+
+- logowanie i nawigację po panelu;
+- edytor treści;
+- bibliotekę mediów;
+- formularze administracyjne;
+- zarządzanie szablonami i komponentami;
+- podgląd treści;
+- proces akceptacji i publikacji.
+
+### Część B: wspieranie tworzenia dostępnych treści
+
+Część B dotyczy sposobu, w jaki narzędzie wspiera tworzenie dostępnych treści internetowych. Obejmuje między innymi:
+
+- generowanie dostępnej treści wynikowej;
+- zachowanie informacji istotnych dla dostępności podczas edycji i przekształcania treści;
+- pomoc w tworzeniu dostępnych treści;
+- sprawdzanie problemów dostępności i wspieranie ich naprawy;
+- dostępne szablony, przykłady i dokumentację.
+
+Wymagania nie powinny ograniczać się do jednego z tych obszarów. Dostępny panel nie gwarantuje, że narzędzie wspiera tworzenie dostępnych treści. Z kolei funkcje sprawdzania treści nie usuwają barier w interfejsie używanym przez pracowników.
+
+## 3. Rozpoznanie funkcji autorskich
+
+Przed opisaniem wymagań organizacja ustala, czy użytkownicy rozwiązania będą mogli:
+
+- tworzyć i edytować strony albo inne treści internetowe;
+- dodawać obrazy, multimedia i pliki;
+- tworzyć formularze;
+- korzystać z szablonów i komponentów;
+- zatwierdzać i publikować treści;
+- importować, eksportować lub migrować treści;
+- zmieniać kod albo strukturę treści wynikowej.
+
+Jeżeli rozwiązanie zawiera takie funkcje, organizacja określa:
+
+1. które moduły i procesy podlegają wymaganiom ATAG;
+2. jakie zadania wykonują w nich pracownicy;
+3. jakie rodzaje treści powstają za pomocą rozwiązania;
+4. jakie wersje, konfiguracje i komponenty będą objęte zamówieniem;
+5. które funkcje mają największy wpływ na pracowników i odbiorców treści.
+
+Tak opisany zakres jest podstawą wymagań, oceny oferty i późniejszego odbioru.
+
+## 4. Określenie wymagań
+
+Organizacja powinna odwołać się do ATAG 2.0 jako właściwego zbioru wymagań dla narzędzi autorskich. Nie należy zastępować wymagań ATAG własną, uproszczoną listą techniczną.
+
+ATAG 2.0 odwołuje się normatywnie do WCAG 2.0. Jeżeli organizacja wymaga także zgodności z EN 301 549 lub nowszą wersją WCAG, powinna wskazać te podstawy oddzielnie. Powinna też określić, jakie dowody potwierdzają spełnienie każdego zbioru wymagań.
+
+W dokumentacji zamówienia należy określić co najmniej:
+
+- zakres rozwiązania objęty ATAG;
+- wymagany poziom zgodności i sposób jego wykazania;
+- wersję i konfigurację rozwiązania podlegające ocenie;
+- zadania i procesy, które będą weryfikowane;
+- informacje oraz dowody wymagane od oferenta;
+- zasady postępowania z wymaganiami spełnionymi częściowo albo niemającymi zastosowania;
+- sposób weryfikacji deklaracji podczas demonstracji lub testów;
+- wymagania dotyczące usuwania problemów i utrzymywania dostępności.
+
+Zakres powinien być proporcjonalny do znaczenia i złożoności rozwiązania oraz ryzyka związanego z jego niedostępnością. Proporcjonalność nie może jednak prowadzić do pominięcia funkcji krytycznych dla pracowników lub dostępności publikowanych treści.
+
+## 5. Zastosowanie wymagań na kolejnych etapach
+
+### Opis przedmiotu zamówienia i SWZ
+
+Organizacja:
+
+- rozpoznaje funkcje autorskie;
+- określa zakres i wymagany poziom zgodności z ATAG;
+- wskazuje wymagane informacje i dowody;
+- opisuje najważniejsze zadania użytkowników;
+- zapowiada sposób weryfikacji ofert i odbioru rozwiązania.
+
+### Ocena oferty
+
+Organizacja:
+
+- sprawdza kompletność i zakres deklaracji oferenta;
+- ocenia jakość przedstawionych dowodów;
+- analizuje znane ograniczenia i związane z nimi ryzyko;
+- w razie potrzeby wymaga demonstracji albo wykonania wybranych scenariuszy;
+- dokumentuje wynik oceny.
+
+### Umowa
+
+Organizacja określa w umowie:
+
+- zobowiązanie do spełnienia uzgodnionych wymagań;
+- wersję i konfigurację rozwiązania objęte zobowiązaniem;
+- dowody przekazywane podczas realizacji i odbioru;
+- sposób zgłaszania, klasyfikowania i usuwania problemów;
+- odpowiedzialność za szablony, komponenty i usługi stron trzecich;
+- zasady utrzymywania dostępności po aktualizacjach.
+
+Treść klauzul umownych powinna zostać oceniona przez osobę odpowiedzialną za zamówienia lub obsługę prawną organizacji.
+
+### Odbiór
+
+Organizacja:
+
+- weryfikuje wymagania zapisane w zamówieniu i umowie;
+- powtarza uzgodnione scenariusze;
+- sprawdza dowody dotyczące gotowej wersji rozwiązania;
+- dokumentuje problemy, ograniczenia i działania naprawcze;
+- nie uznaje pojedynczej demonstracji za potwierdzenie pełnej zgodności z ATAG.
+
+### Utrzymanie
+
+Organizacja ustala:
+
+- zakres testów po aktualizacjach;
+- sposób monitorowania znanych problemów;
+- proces obsługi zgłoszeń pracowników i odbiorców treści;
+- zasady oceny nowych szablonów, komponentów i integracji;
+- terminy aktualizacji dokumentacji zgodności.
+
+## 6. Informacje wymagane od oferenta
+
+Oferent powinien określić:
+
+- które elementy i funkcje rozwiązania uznaje za narzędzie autorskie;
+- jakiej wersji, konfiguracji i zakresu dotyczy deklaracja;
+- które wymagania części A i części B ATAG mają zastosowanie;
+- które wymagania są spełnione, częściowo spełnione, niespełnione albo nie mają zastosowania;
+- dlaczego dane wymaganie uznano za niemające zastosowania;
+- na jakiej metodzie i jakich badaniach oparto ocenę;
+- jakie problemy i ograniczenia są znane;
+- jaki jest wpływ ograniczeń na pracowników i dostępność tworzonych treści;
+- jakie działania naprawcze zaplanowano;
+- jak dostępność będzie utrzymywana podczas rozwoju i aktualizacji rozwiązania.
+
+Ogólne oświadczenie „rozwiązanie jest zgodne z ATAG” nie jest wystarczającym dowodem.
+
+## 7. Materiały dowodowe
+
+W zależności od rodzaju rozwiązania i etapu postępowania organizacja może wymagać:
+
+- raportu oceny zgodności z ATAG;
+- macierzy wymagań części A i części B;
+- opisu metody, zakresu i środowiska testów;
+- raportów z testów manualnych i testów z technologiami wspomagającymi;
+- wyników badań z udziałem osób z niepełnosprawnościami;
+- dokumentacji funkcji wspierających tworzenie dostępnych treści;
+- wykazu znanych problemów i ograniczeń;
+- dowodów dotyczących dostępności szablonów i komponentów;
+- wyników sprawdzenia treści generowanej przez narzędzie;
+- scenariuszy testowych i zapisów z ich wykonania;
+- planu usuwania problemów i utrzymywania dostępności.
+
+Dowód powinien pozwalać ustalić, co zbadano, jak przeprowadzono badanie i jakie uzyskano wyniki. Więcej informacji zawiera [Katalog dowodów dostępności cyfrowej](katalog-dowodów-dostępności-cyfrowej).
+
+## 8. Ocena informacji i dowodów
+
+Podczas oceny organizacja sprawdza:
+
+1. **Zakres**: czy wiadomo, jakich modułów, funkcji, wersji i konfiguracji dotyczy deklaracja.
+2. **Obie części ATAG**: czy oferent odniósł się zarówno do dostępności interfejsu, jak i wspierania tworzenia dostępnych treści.
+3. **Kompletność**: czy uwzględniono wszystkie wymagania mające zastosowanie.
+4. **Metodę**: czy opisano sposób, środowisko i wykonawców badania.
+5. **Dowody**: czy materiały pozwalają zweryfikować deklarowane właściwości.
+6. **Ograniczenia**: czy ujawniono wymagania niespełnione lub spełnione częściowo.
+7. **Wpływ**: czy opisano konsekwencje ograniczeń dla pracowników i publikowanych treści.
+8. **Powtarzalność**: czy organizacja może powtórzyć test albo scenariusz.
+9. **Utrzymanie**: czy oferent przedstawił sposób zachowania dostępności po wdrożeniu.
+
+Brak informacji nie powinien być automatycznie interpretowany jako spełnienie wymagania.
+
+## 9. Przykładowe scenariusze weryfikacyjne
+
+Scenariusze pomagają sprawdzić wybrane deklaracje oferenta. Organizacja dostosowuje je do zakresu zamówienia i wiąże z konkretnymi wymaganiami. Wynik scenariusza nie potwierdza samodzielnie pełnej zgodności z ATAG.
+
+### Scenariusz 1. Praca bez użycia myszy
+
+**Obszar:** część A ATAG.
+
+Użytkownik korzysta wyłącznie z klawiatury, aby:
+
+1. zalogować się;
+2. przejść do listy treści;
+3. utworzyć lub edytować stronę;
+4. dodać obraz;
+5. zapisać wersję roboczą;
+6. otworzyć podgląd;
+7. przekazać treść do akceptacji albo ją opublikować.
+
+**Co należy udokumentować:** kolejność fokusu, jego widoczność, dostępność wszystkich funkcji, brak pułapek klawiaturowych oraz sposób przekazywania komunikatów i błędów.
+
+### Scenariusz 2. Utworzenie strony o poprawnej strukturze
+
+**Obszar:** część B ATAG.
+
+Użytkownik tworzy stronę zawierającą:
+
+- tytuł i logiczną strukturę nagłówków;
+- listę;
+- link o zrozumiałej treści;
+- tabelę z prawidłowo oznaczonymi nagłówkami;
+- obraz informacyjny z tekstem alternatywnym;
+- obraz dekoracyjny prawidłowo oznaczony jako dekoracyjny.
+
+**Co należy udokumentować:** sposób wykonania zadania w edytorze oraz strukturę treści wynikowej po zapisaniu i opublikowaniu.
+
+### Scenariusz 3. Obsługa obrazów
+
+**Obszar:** część B ATAG.
+
+Użytkownik:
+
+1. dodaje obraz informacyjny i wpisuje tekst alternatywny;
+2. dodaje obraz dekoracyjny;
+3. próbuje opublikować obraz informacyjny bez tekstu alternatywnego;
+4. edytuje tekst alternatywny po zapisaniu treści;
+5. ponownie wykorzystuje obraz w innym kontekście.
+
+**Co należy udokumentować:** dostępne opcje, działanie podpowiedzi i ostrzeżeń oraz sposób zapisu tekstu alternatywnego i oznaczenia dekoracyjności w treści wynikowej.
+
+### Scenariusz 4. Wykrycie i naprawa problemu
+
+**Obszar:** część B ATAG.
+
+Użytkownik uruchamia funkcję sprawdzania dostępności dla treści zawierającej znany problem. Następnie odnajduje problem, odczytuje wyjaśnienie, poprawia treść i ponawia sprawdzenie.
+
+Sprawdzanie może być automatyczne, półautomatyczne albo prowadzić autora przez ocenę manualną.
+
+**Co należy udokumentować:** zakres automatycznego sprawdzania, sposób wskazania miejsca problemu, dostępność komunikatu, treść podpowiedzi oraz wynik ponownego sprawdzenia.
+
+Jeżeli narzędzie nie automatyzuje sprawdzania, oferent powinien pokazać, jak wspiera ocenę manualną. Powinien też jasno opisać ograniczenia tego procesu.
+
+### Scenariusz 5. Użycie szablonu lub komponentu
+
+**Obszar:** część A i część B ATAG.
+
+Użytkownik dodaje komponent używany w organizacji, na przykład akordeon, okno dialogowe, kartę informacyjną albo formularz.
+
+**Co należy udokumentować:** dostępność konfiguracji komponentu, obsługę treści wymaganych dla dostępności, działanie opublikowanego komponentu oraz znane ograniczenia jego wariantów.
+
+### Scenariusz 6. Import, kopiowanie lub migracja treści
+
+**Obszar:** część B ATAG.
+
+Użytkownik importuje, kopiuje albo migruje próbkę zawierającą nagłówki, listy, tabelę, linki, obrazy i informacje o ich alternatywach.
+
+**Co należy udokumentować:** informacje zachowane, zmienione i utracone podczas procesu oraz sposób wykrycia i naprawy strat.
+
+### Scenariusz 7. Aktualizacja rozwiązania
+
+**Obszar:** część A i część B ATAG.
+
+Oferent przedstawia sposób oceny aktualizacji, która zmienia edytor, szablon, komponent albo integrację z usługą zewnętrzną.
+
+**Co należy udokumentować:** analizę wpływu zmiany, zakres testów regresji, wyniki testów, nowe ograniczenia oraz plan działań naprawczych.
+
+## 10. Kryteria odbioru
+
+Kryteria odbioru muszą wynikać z wymagań zapisanych w zamówieniu i umowie. Powinny wskazywać:
+
+- zadanie i funkcję podlegające sprawdzeniu;
+- wersję oraz konfigurację rozwiązania;
+- środowisko i technologie wspomagające użyte podczas testu;
+- oczekiwany wynik;
+- sposób udokumentowania wyniku;
+- sposób postępowania w razie niespełnienia wymagania.
+
+Przykładowe scenariusze nie są samodzielnym standardem zgodności. Zaliczenie kilku zadań nie oznacza pełnej zgodności rozwiązania z ATAG 2.0.
+
+## 11. Wykorzystanie wyników oceny
+
+Na podstawie informacji, dowodów i weryfikacji organizacja ustala:
+
+- czy oferent wykazał zdolność do spełnienia wymagań;
+- jakie ograniczenia występują w rozwiązaniu;
+- jaki jest ich wpływ na pracowników i odbiorców treści;
+- które problemy muszą zostać usunięte przed odbiorem;
+- jakie zobowiązania należy wpisać do umowy;
+- jakie właściwości trzeba sprawdzić podczas odbioru;
+- jakie działania są potrzebne po wdrożeniu.
+
+Wynik oceny powinien zostać udokumentowany. Powinien również wskazywać założenia, brakujące informacje i ryzyka, których nie udało się zweryfikować.
+
+## Zastrzeżenie
+
+Dokument ma charakter informacyjny i wspierający. Nie stanowi porady prawnej ani kompletnej metody oceny zgodności z ATAG 2.0. Organizacja powinna dostosować wymagania i scenariusze do przedmiotu zamówienia oraz poddać klauzule umowne właściwej ocenie prawnej i zakupowej.
+
+## Źródła i opracowania
+
+1. [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/), W3C Recommendation.
+2. [Implementing ATAG 2.0](https://www.w3.org/TR/IMPLEMENTING-ATAG20/), wskazówki dotyczące stosowania wytycznych.
+3. [Omówienie wytycznych dla dostępności narzędzi autorskich](https://www.w3.org/WAI/standards-guidelines/atag/pl/), W3C WAI.
+4. [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/), narzędzie do przygotowania raportu z oceny.
+
+## Historia wersji
+
+| **Wersja** | **Autor** | **Data** | **Opis zmian** |
+| --- | --- | --- | --- |
+| RC | Damian Żłobicki | 10.06.2026 | Pierwszy projekt materiałów dotyczących ATAG i systemów CMS |
+| RC 2 | Damian Żłobicki | 26.08.2026 | Przeniesienie materiału do zalecenia dotyczącego oceny ofert i rozszerzenie zakresu na narzędzia autorskie |
