@@ -97,25 +97,39 @@ Tak opisany zakres jest podstawą wymagań, oceny oferty i późniejszego odbior
 
 ## 4. Określenie wymagań
 
-Podmiot publiczny określa PN-ETSI EN 301 549 V3.2.1:2021-09 jako podstawowy zbiór wymagań dostępności cyfrowej. Dobiera wymagania normy odpowiednio do rodzaju nabywanego rozwiązania i jego funkcji.
+Wymagania określ w trzech krokach.
 
-W odniesieniu do stron internetowych i aplikacji mobilnych ustawa o dostępności cyfrowej określa wymagania w załączniku. Zgodnie z art. 5 ust. 3 ustawy wymagania te uznaje się za spełnione, gdy podmiot publiczny uwzględni wymagania określone w punktach 9, 10 i 11 normy. Nie należy zastępować tego zakresu ogólnym wymaganiem pełnej zgodności z WCAG 2.1.
+### Krok 1. Ustal wymagania podstawowe
 
-W przypadku narzędzi autorskich zastosowanie mają w szczególności wymagania punktu 11.8 normy. ATAG 2.0 może uzupełniać te wymagania, zwłaszcza gdy podmiot publiczny chce dokładniej ocenić dostępność narzędzia dla autorów i wspieranie tworzenia dostępnych treści. ATAG 2.0 nie zastępuje wymagań ustawy ani EN 301 549.
+Dla podmiotu publicznego podstawą są przepisy o dostępności cyfrowej i norma PN-ETSI EN 301 549 V3.2.1:2021-09.
 
-W dokumentacji zamówienia należy określić co najmniej:
+Dobierz wymagania normy do zamawianego rozwiązania. W przypadku stron internetowych, dokumentów i oprogramowania uwzględnij odpowiednie wymagania z punktów 9, 10 i 11 normy. Taki sposób wykazania zgodności wskazuje art. 5 ust. 3 ustawy o dostępności cyfrowej.
 
-- zakres wymagań EN 301 549 odpowiedni dla rozwiązania;
-- funkcje objęte dodatkowymi wymaganiami ATAG;
-- wymagany poziom zgodności z ATAG i sposób jego wykazania;
+Nie ograniczaj wymagania do ogólnego zapisu „zgodność z WCAG 2.1”. Dokładny zakres obowiązku wynika z załącznika do ustawy i odpowiednich punktów EN 301 549.
+
+### Krok 2. Dodaj wymagania dla narzędzia autorskiego
+
+Jeżeli rozwiązanie pozwala tworzyć, edytować lub publikować treści, uwzględnij również:
+
+- wymagania dla narzędzi autorskich z punktu 11.8 EN 301 549;
+- wymagania ATAG 2.0 odpowiednie do funkcji i ryzyka związanego z rozwiązaniem.
+
+ATAG 2.0 pomaga dokładniej ocenić dostępność narzędzia dla pracowników oraz sposób, w jaki narzędzie wspiera tworzenie dostępnych treści. Uzupełnia wymagania ustawy i EN 301 549, ale ich nie zastępuje.
+
+### Krok 3. Zapisz dokładny zakres
+
+W OPZ lub SWZ wskaż:
+
+- które wymagania EN 301 549 dotyczą rozwiązania i jego poszczególnych modułów;
+- które funkcje mają spełniać wymagania ATAG i na jakim poziomie;
 - wersję i konfigurację rozwiązania podlegające ocenie;
-- zadania i procesy, które będą weryfikowane;
-- informacje oraz dowody wymagane od oferenta;
-- zasady postępowania z wymaganiami spełnionymi częściowo albo niemającymi zastosowania;
-- sposób weryfikacji deklaracji podczas demonstracji lub testów;
-- wymagania dotyczące usuwania problemów i utrzymywania dostępności.
+- zadania lub scenariusze, które posłużą do sprawdzenia rozwiązania;
+- informacje i dowody, które ma przedstawić oferent;
+- sposób opisania wymagań spełnionych częściowo lub niemających zastosowania;
+- sposób sprawdzenia deklaracji oferenta podczas oceny oferty i odbioru;
+- terminy usuwania problemów oraz zasady utrzymywania dostępności.
 
-Zakres powinien być proporcjonalny do znaczenia i złożoności rozwiązania oraz ryzyka związanego z jego niedostępnością. Proporcjonalność nie może jednak prowadzić do pominięcia funkcji krytycznych dla pracowników lub dostępności publikowanych treści.
+Dostosuj zakres do znaczenia i złożoności rozwiązania. Nie pomijaj funkcji ważnych dla pracowników ani funkcji wpływających na dostępność publikowanych treści.
 
 ## 5. Zastosowanie wymagań na kolejnych etapach
 
