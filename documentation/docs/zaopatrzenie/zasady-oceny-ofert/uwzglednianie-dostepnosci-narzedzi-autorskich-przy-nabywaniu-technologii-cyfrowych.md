@@ -202,7 +202,7 @@ Oferent powinien określić:
 - jakie działania naprawcze zaplanowano;
 - jak dostępność będzie utrzymywana podczas rozwoju i aktualizacji rozwiązania.
 
-Ogólne oświadczenie „rozwiązanie jest zgodne z ATAG” nie jest wystarczającym dowodem.
+Ogólne oświadczenie „rozwiązanie jest zgodne z ATAG” nie jest wystarczającym dowodem. Wymagania wobec deklaracji dostawcy opisuje zalecenie „Deklaracja dostawcy o dostępności cyfrowej produktu lub usługi”.
 
 ## 7. Materiały dowodowe
 
