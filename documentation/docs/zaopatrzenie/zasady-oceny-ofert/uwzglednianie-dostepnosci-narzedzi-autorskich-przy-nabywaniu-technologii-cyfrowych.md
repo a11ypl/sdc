@@ -118,7 +118,7 @@ ATAG 2.0 pomaga dokładniej ocenić dostępność narzędzia dla pracowników or
 
 ### Krok 3. Zapisz dokładny zakres
 
-W OPZ lub SWZ wskaż:
+W opisie przedmiotu zamówienia (OPZ) lub specyfikacji warunków zamówienia (SWZ) organizacja wskazuje:
 
 - które wymagania EN 301 549 dotyczą rozwiązania i jego poszczególnych modułów;
 - które funkcje mają spełniać wymagania ATAG i na jakim poziomie;
