@@ -129,7 +129,7 @@ W OPZ lub SWZ wskaż:
 - sposób sprawdzenia deklaracji oferenta podczas oceny oferty i odbioru;
 - terminy usuwania problemów oraz zasady utrzymywania dostępności.
 
-Dostosuj zakres do znaczenia i złożoności rozwiązania. Nie pomijaj funkcji ważnych dla pracowników ani funkcji wpływających na dostępność publikowanych treści.
+Zakres należy dostosować do znaczenia i złożoności rozwiązania, bez pomijania funkcji ważnych dla pracowników ani funkcji wpływających na dostępność publikowanych treści.
 
 ## 5. Zastosowanie wymagań na kolejnych etapach
 
