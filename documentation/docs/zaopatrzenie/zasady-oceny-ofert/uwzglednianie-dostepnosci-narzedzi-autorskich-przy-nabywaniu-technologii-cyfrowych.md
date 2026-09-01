@@ -97,7 +97,7 @@ Tak opisany zakres jest podstawą wymagań, oceny oferty i późniejszego odbior
 
 ## 4. Określenie wymagań
 
-Wymagania określ w trzech krokach.
+Wymagania określa się w trzech krokach.
 
 ### Krok 1. Ustal wymagania podstawowe
 
