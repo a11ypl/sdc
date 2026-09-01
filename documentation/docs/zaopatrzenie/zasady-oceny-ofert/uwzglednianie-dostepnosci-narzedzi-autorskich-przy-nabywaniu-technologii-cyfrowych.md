@@ -352,7 +352,8 @@ Wynik oceny powinien zostać udokumentowany. Powinien również wskazywać zało
 
 ## Zastrzeżenie
 
-Dokument ma charakter informacyjny i wspierający. Nie stanowi porady prawnej ani kompletnej metody oceny zgodności z ustawą, EN 301 549 lub ATAG 2.0. Organizacja powinna dostosować wymagania i scenariusze do przedmiotu zamówienia oraz poddać klauzule umowne właściwej ocenie prawnej i zakupowej.
+Dokument przedstawia rekomendowane rozwiązanie opracowane w ramach prac Sieci Dostępności Cyfrowej. Ma charakter informacyjny i wspierający oraz nie stanowi porady prawnej. Organizacja powinna ocenić jego przydatność i dostosować proponowane rozwiązania do własnych uwarunkowań organizacyjnych, technicznych i prawnych. W przypadku wątpliwości dotyczących interpretacji przepisów prawa lub skutków prawnych zastosowania określonych rozwiązań zaleca się zasięgnięcie specjalistycznej opinii.
+
 
 ## Źródła i opracowania
 
