@@ -165,7 +165,7 @@ Organizacja określa w umowie:
 - odpowiedzialność za szablony, komponenty i usługi stron trzecich;
 - zasady utrzymywania dostępności po aktualizacjach.
 
-Treść klauzul umownych powinna zostać oceniona przez osobę odpowiedzialną za zamówienia lub obsługę prawną organizacji.
+Wzorcowe klauzule dotyczące tych zagadnień zawiera zalecenie „Stosowanie klauzul umownych dotyczących zapewnienia i utrzymania dostępności cyfrowej produktów cyfrowych”. Treść klauzul umownych powinna zostać oceniona przez osobę odpowiedzialną za zamówienia lub obsługę prawną organizacji.
 
 ### Odbiór
 
