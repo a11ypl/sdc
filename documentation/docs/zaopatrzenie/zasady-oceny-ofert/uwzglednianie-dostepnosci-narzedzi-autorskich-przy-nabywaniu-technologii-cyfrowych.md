@@ -41,7 +41,7 @@ Narzędziami autorskimi mogą być między innymi:
 
 O zastosowaniu ATAG decydują funkcje rozwiązania, a nie jego nazwa. Narzędzie może podlegać ATAG w całości albo tylko w zakresie funkcji autorskich.
 
-Nie każde narzędzie używane przez pracowników jest narzędziem autorskim w rozumieniu ATAG. Jeżeli rozwiązanie tworzy wyłącznie treści nieinternetowe, na przykład dokumenty biurowe, należy ustalić właściwe wymagania na podstawie przeznaczenia rozwiązania i odpowiednich rozdziałów normy EN 301 549.
+Nie każde narzędzie używane przez pracowników jest narzędziem autorskim w rozumieniu ATAG. Jeżeli rozwiązanie tworzy wyłącznie treści nieinternetowe, na przykład dokumenty biurowe, wytyczne ATAG nie mają zastosowania, ale obowiązują wymagania dla narzędzi autorskich z punktu 11.8 EN 301 549 oraz inne wymagania normy właściwe dla przeznaczenia rozwiązania.
 
 ## 2. Dwie części ATAG 2.0
 
